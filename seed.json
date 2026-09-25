@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "generatedAt": "",
+  "keys": {
+    "app:cohort-templates": [],
+    "app:assignments": [],
+    "app:image-templates": { "intro": {}, "diploma": {}, "orgs": {}, "educator": {} },
+    "app:allowed-languages": {
+      "intro": [ { "code": "en", "label": "English" }, { "code": "es", "label": "Spanish" } ],
+      "diploma": [ { "code": "en", "label": "English" }, { "code": "es", "label": "Spanish" } ],
+      "orgs": [ { "code": "en", "label": "English" } ],
+      "educator": [ { "code": "en", "label": "English" } ]
+    },
+    "app:certificate-templates": [],
+    "app:wikis": [],
+    "app:cohorts": [],
+    "app:certificate-claimed-at": {},
+    "app:certificate-extras": {},
+    "app:reputation-weights": {
+      "fullNodeBadge": 100,
+      "lightNodeBadge": 50,
+      "introProgramComplete": 25,
+      "diplomaProgramComplete": 50,
+      "orgsProgramComplete": 50,
+      "educatorProgramComplete": 50,
+      "reviewStar": 1
+    },
+    "app:badge-definitions": {
+      "introCourse": "",
+      "bitcoinDiploma": "",
+      "educatorTrainingProgram": "",
+      "lightNode": "naddr1qq3y67fdge5hyum594pxjarrda5kut29v36kxct5d9hkut2wv468wmmjdvqs6amnwvaz7tmwdaejumr0dspzpasf6k95y569sa5dnwh3k29tfha47mnfpkvmkfmqeq7782zqc04zqvzqqqr48y0k88zw",
+      "fullNode": "naddr1qqw567fdge5hyum594pxjarrda5kut2wdajx2t2wv468wmmjdvqs6amnwvaz7tmwdaejumr0dspzpasf6k95y569sa5dnwh3k29tfha47mnfpkvmkfmqeq7782zqc04zqvzqqqr48ywdapcp",
+      "certifiedCommunity": ""
+    }
+  }
+}
